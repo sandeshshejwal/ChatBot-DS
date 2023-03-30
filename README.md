@@ -2,6 +2,6 @@ DESCRIPTION : An artificial intelligence (AI) software program termed as a chatb
 
 MACHINE LEARNING MODELS : Linear Regression Lasso Regression Decision Tree Regressor XGBoost Algorithm Random Forest Classifier Artificial Neural Network
 
-REQUIREMENTS : Python 3.5+ Sklearn Pandas Matplotlib Seaborn
+REQUIREMENTS : Python 3.5+ Sklearn, Pandas, Matplotlib, Seaborn, scikit-learn, scipy, numpy.
 
 CONTRIBUTOR : Sandesh Shejwal
